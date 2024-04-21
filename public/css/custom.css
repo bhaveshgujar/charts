@@ -1,0 +1,35 @@
+/*.parent{
+	top: 364px;
+	left: 91px;
+	width: 1739px;
+	height: 353px;
+	opacity: 1;
+}
+.chart1{
+	top: 375px;
+	left: 92px;
+	width: 315px;
+	height: 331px;
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+	border-radius: 12px;
+	opacity: 1;
+}
+.chart2{
+	top: 364px;
+	left: 447px;
+	width: 315px;
+	height: 353px;
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+	border-radius: 12px;
+	opacity: 1;
+}
+*/
+.dot-slider {
+  width: 10px; /* Set width of dot */
+  height: 10px; /* Set height of dot */
+  border-radius: 50%; /* Make it circular */
+  background-color: #007bff; /* Set color of dot */
+  border: none; /* Remove border */
+  margin-top: -5px; /* Adjust vertical alignment */
+  margin-left: -5px; /* Adjust horizontal alignment */
+}
